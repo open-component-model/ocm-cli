@@ -6,7 +6,7 @@
 
 The [`ocm` CLI](https://github.com/open-component-model/ocm/tree/main/docs/reference/ocm.md) may also be used to interact with OCM mechanisms. It makes it easy to create component versions and embed them in build processes.
 
-The `ocm` CLI documentation can be found [here]((https://github.com/open-component-model/ocm/blob/main/docs/reference/ocm.md)).
+The `ocm` CLI documentation can be found [here](https://github.com/open-component-model/ocm/blob/main/docs/reference/ocm.md).
 
 The code for the CLI can be found in [package `cmds/ocm`](https://github.com/open-component-model/ocm/blob/main/cmds/ocm).
 
