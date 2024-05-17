@@ -4,11 +4,18 @@
 
 ## About this project
 
-Command Line Interface (CLI) for the Open Component Model
+The [`ocm` CLI](https://github.com/open-component-model/ocm/tree/main/docs/reference/ocm.md) may also be used to interact with OCM mechanisms. It makes it easy to create component versions and embed them in build processes.
 
-## Requirements and Setup
+The `ocm` CLI documentation can be found [here]((https://github.com/open-component-model/ocm/blob/main/docs/reference/ocm.md)).
 
-*Insert a short description what is required to get your project running...*
+The code for the CLI can be found in [package `cmds/ocm`](https://github.com/open-component-model/ocm/blob/main/cmds/ocm).
+
+The OCI and OCM support can be found in packages
+[`pkg/contexts/oci`](https://github.com/open-component-model/ocm/blob/main/pkg/contexts/oci) and [`pkg/contexts/ocm`](https://github.com/open-component-model/ocm/blob/main/pkg/contexts/ocm).
+
+## Installation
+
+Install the latest release via [Homebrew](https://brew.sh), [Nix](https://nixos.org), [Docker](https://www.docker.com/)/[Podman](https://podman.io/) or directly from [GitHub Releases](https://github.com/open-component-model/ocm/releases).
 
 ## Support, Feedback, Contributing
 
